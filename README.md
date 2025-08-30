@@ -92,7 +92,7 @@ ollama serve
 
 2. **Download Model**:
 ```bash
-ollama pull llama3.2:8b
+ollama pull llama3.2:3b
 ```
 
 3. **Copy your JSON file and setup**:
