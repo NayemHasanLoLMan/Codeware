@@ -117,7 +117,7 @@ class FlowMatcher:
 class OllamaLLM(LLM):
     
     
-    def __init__(self, model_name: str = "llama3.2:8b", base_url: str = "http://localhost:11434"):
+    def __init__(self, model_name: str = "llama3.2:3b", base_url: str = "http://localhost:11434"):
         super().__init__()
         self.model_name = model_name
         self.base_url = base_url
