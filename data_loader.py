@@ -229,7 +229,7 @@ def validate_flow_structure(flow_data: List[Dict]) -> bool:
             print(f"  - {issue}")
         return False
     
-    print("\n✅ Flow structure validation passed")
+    print("\nFlow structure validation passed")
     return True
 
 if __name__ == "__main__":
