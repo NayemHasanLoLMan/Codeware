@@ -42,7 +42,7 @@ def check_ollama_service():
         print("Ollama service is not running")
         return False
 
-def install_ollama_model(model_name: str = "llama3.2:8b"):
+def install_ollama_model(model_name: str = "llama3.2:3b"):
 
     print(f"Installing Ollama model: {model_name}")
     try:
