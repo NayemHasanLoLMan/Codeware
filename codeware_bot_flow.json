@@ -1,0 +1,3771 @@
+[
+  {
+    "id": "679e564098ea05fc9dd74961_1a9d676cdf512b03",
+    "message": "Welcome to iDesk360\nPlease select your preferred service from menu.\n\nঅনুগ্রহ করে আপনার কাঙ্ক্ষিত সেবাটি মেন্যু থেকে বেছে নিন।",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "679e564098ea05fc9dd74961_b8d0398383904d6e",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "679e564098ea05fc9dd74961_39e874b0ee5e26ba",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "isStartFlow": true,
+    "keywords": [
+      "Hellow",
+      "Hello",
+      "hello",
+      "Hi",
+      "hi",
+      "Hlw",
+      "hlw",
+      "hii",
+      "হাই",
+      "হ্যালো",
+      "হেলো",
+      "Assalamualaikim",
+      "আসসালামুআলাইকুম",
+      "আসসালামু আলাইকুম",
+      "Achen?",
+      "Assalamualaikum sir",
+      "Vai",
+      "নমস্কার",
+      "HI",
+      "?",
+      "??",
+      "???",
+      "Bhai"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "noMatch",
+    "message": "Please assist us by giving your precious time, we are working to resolve your issues.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+    "message": "Please select your desire service",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd74964_5b703bf48a2b99f0",
+        "label": "New Connection",
+        "value": "679e564098ea05fc9dd74962_18d6ba2b6cc464f8",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74968_ad3734fab0d51f1a",
+        "label": "Packages",
+        "value": "679e564098ea05fc9dd74962_49fed2b47a2e0e60",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7496c_1a827ff9bcbc67a2",
+        "label": "Bill Pay",
+        "value": "679e564098ea05fc9dd74962_6e7ecf7b4e9c15ef",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7497a_4ca15b5e495f38cd",
+        "label": "Service Request",
+        "value": "679e564098ea05fc9dd74962_9b577bfca14a05f5",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7498a_9f13bae58a3a5d98",
+        "label": "Coverage",
+        "value": "679e564098ea05fc9dd74962_6edef356f40e082f",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686e4e5b57956d829940ef60_12898e0dff1aa3a1",
+        "label": "Dial App",
+        "value": "679e564098ea05fc9dd74962_72adaefd28ba0159",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74961_1a9d676cdf512b03",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd74962_9e47d84deca98aa5",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74963_b5de719df93970dd",
+    "message": "অনুগ্রহ করে আপনার প্রয়োজনীয় সেবাটি নির্বাচন করুন,",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd74965_e9127afca7661432",
+        "label": "নতুন সংযোগ",
+        "value": "679e564098ea05fc9dd74963_2c8ec407bc0c2581",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74969_21f51a84a89a4f56",
+        "label": "প্যাকেজ",
+        "value": "679e564098ea05fc9dd74963_c01274396e0b5883",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7496d_2a872af5967812ec",
+        "label": "বিল পে",
+        "value": "679e564098ea05fc9dd74963_0741b9988eb56501",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7497b_975e1f9485e97c15",
+        "label": "সার্ভিস রিকোয়েস্ট",
+        "value": "679e564098ea05fc9dd74963_5927f798c537ac19",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7498b_6592e3a42d72d0fc",
+        "label": "কাভারেজ",
+        "value": "679e564098ea05fc9dd74963_7f792612005b6ca4",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686e4e9c57956d829940ef61_269b48970ec086e6",
+        "label": "ডায়াল অ্যাপ",
+        "value": "679e564098ea05fc9dd74963_11be188e48a4f0ea",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74961_1a9d676cdf512b03",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd74963_230fc768cc895cae",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74964_5b703bf48a2b99f0",
+    "delay": 0,
+    "message": "Please select your desire package,",
+    "trigger": "679e564098ea05fc9dd74964_807c9312f1718af5",
+    "keywords": [
+      "New Connection",
+      "Connection nibo",
+      "coverage ache",
+      "connection den",
+      "line nite chai",
+      "line nibo",
+      "internet den",
+      "net den"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74964_807c9312f1718af5",
+    "trigger": "679e564098ea05fc9dd74964_1c41fd0eef94a297",
+    "carousel": [
+      {
+        "id": "679e564098ea05fc9dd74964_17e2ff83cc451786",
+        "src": "#",
+        "title": "<a target='_blank' href=''>90 Mbps, BDT 1900 </a> </br>Dial 500 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_b38588a6205048e5",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_40d63765cee3994d",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_765f1f94248d643b",
+        "src": "#",
+        "title": "<a target='_blank' href=''>85 Mbps, BDT 1800 </a> </br>Dial 400 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_fce92d3386cb8ad8",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_0d5da11100ce9514",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_f04184340a9d621d",
+        "src": "#",
+        "title": "<a target='_blank' href=''>80 Mbps, BDT 1700 </a> </br>Dial 400 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_5ed6d7980eb08a22",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_63cae30444bf8018",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_a7f818624c6c573e",
+        "src": "#",
+        "title": "<a target='_blank' href=''>75 Mbps, BDT 1475 </a> </br>Dial 400 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_646997120ee7cf7d",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_bef7ff32728cc15d",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_10ea4d49e8ce1ad3",
+        "src": "#",
+        "title": "<a target='_blank' href=''>70 Mbps, BDT 1375 </a> </br>Dial 400 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_7c51618474bd230a",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_36183599c44c0e2a",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_96a22c04fd57c45f",
+        "src": "#",
+        "title": "<a target='_blank' href=''>60 Mbps, BDT 1275 </a> </br>Dial 400 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_2100599ffa2a8027",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_d243855d7ee36e0d",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_d985804589026364",
+        "src": "#",
+        "title": "<a target='_blank' href=''>50 Mbps, BDT 1050 </a> </br>Dial 100 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_c08af53191560d7e",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_a4ede9d1517e8937",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_e0e8d45804da3afe",
+        "src": "#",
+        "title": "<a target='_blank' href=''>35 Mbps, BDT 825 </a> </br>Dial 100 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_81b618f789f87246",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_8c636266c2d0b454",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_855bb248056a54e9",
+        "src": "#",
+        "title": "<a target='_blank' href=''>20 Mbps, BDT 650 </a> </br>",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_a645d11cf6b7481e",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_d62285a4afabad19",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_4cf11696e1769a75",
+        "src": "#",
+        "title": "<a target='_blank' href=''>10 Mbps, BDT 525 </a> </br>",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_d3364ecda1286c0f",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_366c902a07bd2b52",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74964_1c41fd0eef94a297",
+    "carousel": [
+      {
+        "id": "679e564098ea05fc9dd74964_2a9a9d0a1c22ddd0",
+        "src": "#",
+        "title": "<a target='_blank' href=''>125 Mbps, BDT 2525 </a> </br>Dial 600 Min Talktime",
+        "options": [
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_986461edc2e7b226",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_1c0d67886f56c8f7",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_91d651036584b228",
+        "src": "#",
+        "title": "<a target='_blank' href=''>140 Mbps, BDT 2800 </a> </br>Dial 700 Min Talktime",
+        "options": [
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_12133bd43e271031",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_0324e3a3b9aaef60",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74964_72b9242d4147d77f",
+        "src": "#",
+        "title": "<a target='_blank' href=''>210 Mbps, BDT 4625 </a> </br>Dial 800 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+            "label": "Order Now",
+            "value": "679e564098ea05fc9dd74964_1a5f998361de5643",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74964_96e95f9045b8ea29",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74965_e9127afca7661432",
+    "delay": 0,
+    "message": "অনুগ্রহ করে আপনার প্যাকেজটি  নির্বাচন করুন,",
+    "trigger": "679e564098ea05fc9dd74965_ad697fe5c19a8a52",
+    "keywords": [
+      "নতুন কানেকশন",
+      "নতুন সংযোগ",
+      "কানেকশন নিবো",
+      "কানেকশন নিতে চাই",
+      "কানেকশন দেন",
+      "লাইন নিতে চাই",
+      "লাইন নিবো",
+      "ইন্টারনেট দেন",
+      "নেট দেন?"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74965_ad697fe5c19a8a52",
+    "trigger": "679e564098ea05fc9dd74965_2bfc1913f61f320a",
+    "carousel": [
+      {
+        "id": "679e564098ea05fc9dd74965_dd94f8cebec49ea2",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৯০ এমবিপিএস, ১৯০০ টাকা </a> </br>ডায়াল ফ্রি টকটাইম ৫০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_7c89a63471392051",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_7f482a54183f14e4",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_34cc0137e2bee8f4",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৮৫ এমবিপিএস, ১৮০০ টাকা </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_1448ca28525c85bd",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_a103585ff8fbe24b",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_5010da8001234c51",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৮০ এমবিপিএস, ১৭০০ টাকা </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_d93baa71e4172b2e",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_0b488e9f7d186950",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_58c9aa50bb342f2b",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৭৫ এমবিপিএস, ১৪৭৫ টাকা </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_5494e86ba4a211f0",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_f975551c56bc0e0f",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_626a76204d7a213d",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৭০ এমবিপিএস, ১৩৭৫ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_655d8002854e8bd9",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_ac6a8439625cae40",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_c2beed09eb6eb9a6",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৬০ এমবিপিএস, ১২৭৫ টাকা </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_ab92eee5016df9f0",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_7c90914202046955",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_3d6e73d4d151c83d",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৫০ এমবিপিএস, ১০৫০ টাকা </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_3a93923c59852655",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_e1eb85bc14f39256",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_1c05a82e9a1be98f",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৩৫ এমবিপিএস, ৮২৫ টাকা </a> </br>ডায়াল ফ্রি টকটাইম ১০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_f02cf4e7b5cbd83d",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_11c3deecdcd18e74",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_1d06ce35cd022a29",
+        "src": "#",
+        "title": "<a target='_blank' href=''>২০ এমবিপিএস, ৬৫০ টাকা </a> </br>",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_5d55b1ef83181b31",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_c88f837223094af8",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_d3ce00168611aba0",
+        "src": "#",
+        "title": "<a target='_blank' href=''>১০ এমবিপিএস, ৫২৫ টাকা </a> </br>",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_e10805c527e612e0",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_46b320467f141c1f",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74965_2bfc1913f61f320a",
+    "carousel": [
+      {
+        "id": "679e564098ea05fc9dd74965_ca757d68e3c3ec44",
+        "src": "#",
+        "title": "<a target='_blank' href=''>১২৫ এমবিপিএস ২৫২৫ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৬০০ মিনিট",
+        "options": [
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_ef8c7823efc649be",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_5fc256d6ffb3cf8a",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_7715828a227c3ed4",
+        "src": "#",
+        "title": "<a target='_blank' href=''>১৪০ এমবিপিএস ২৮০০ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৭০০ মিনিট",
+        "options": [
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_a1e271c0984ec46b",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_3c35ff68aced81df",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74965_8a69dda6708db237",
+        "src": "#",
+        "title": "<a target='_blank' href=''>২১০ এমবিপিএস ৪৬২৫ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৮০০ মিনিট",
+        "options": [
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74965_d10876decad793e6",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+            "label": "অর্ডার করুন",
+            "value": "679e564098ea05fc9dd74965_082ba0e385598709",
+            "type": "button"
+          }
+        ]
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74966_7dd55c9205c5bebb",
+    "delay": 0,
+    "message": "Please assist us by giving following information to place a new connection request.",
+    "trigger": "679e564098ea05fc9dd74966_b7777ee142347d29",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74966_b7777ee142347d29_c54DGDkk7r",
+    "validationType": "phone",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74966_3d4ae9195e8b9b96",
+    "metadata": {
+      "campaignName": "Lead_New Con Eng (Message)",
+      "campaignId": "679e564098ea05fc9dd74966_1a019d17c3c45931"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74966_b7777ee142347d29",
+    "message": "Share your contact number",
+    "trigger": "679e564098ea05fc9dd74966_b7777ee142347d29_c54DGDkk7r",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74966_3d4ae9195e8b9b96_lnDZ32WTQ9",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74966_8fd4629ba45ae99d",
+    "metadata": {
+      "campaignName": "Lead_New Con Eng (Message)",
+      "campaignId": "679e564098ea05fc9dd74966_1a019d17c3c45931"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74966_3d4ae9195e8b9b96",
+    "message": "Share your Thana & District name",
+    "trigger": "679e564098ea05fc9dd74966_3d4ae9195e8b9b96_lnDZ32WTQ9",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74966_8fd4629ba45ae99d_KgpS2kD7A2",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74966_38759aebc64e1481",
+    "metadata": {
+      "campaignName": "Lead_New Con Eng (Message)",
+      "campaignId": "679e564098ea05fc9dd74966_1a019d17c3c45931"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74966_8fd4629ba45ae99d",
+    "message": "Share you area detail address (Ex: House, Road, Block, Area Name)",
+    "trigger": "679e564098ea05fc9dd74966_8fd4629ba45ae99d_KgpS2kD7A2",
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74966_38759aebc64e1481",
+    "message": "Thank you for sharing your information. Soon team will contact with you.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74967_ac754eed5684ce6f",
+    "delay": 0,
+    "message": "অনুগ্রহ করে কিছু তথ্য দিয়ে সহযোগিতা করবেন",
+    "trigger": "679e564098ea05fc9dd74967_724a6acb2c478f8f",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74967_724a6acb2c478f8f_tMV36abJj9",
+    "validationType": "phone",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74967_a6b3cd2f1d367aec",
+    "metadata": {
+      "campaignName": "Lead_New Con Ban (Message)",
+      "campaignId": "679e564098ea05fc9dd74967_64db6b38c9d15e39"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74967_724a6acb2c478f8f",
+    "message": "অনুগ্রহ করে আপনার সাথে যোগাযোগের নাম্বারটি দিয়ে সহযোগিতা করুন,",
+    "trigger": "679e564098ea05fc9dd74967_724a6acb2c478f8f_tMV36abJj9",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74967_a6b3cd2f1d367aec_xlki1j9Vy4",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74967_021b13b7999b2981",
+    "metadata": {
+      "campaignName": "Lead_New Con Ban (Message)",
+      "campaignId": "679e564098ea05fc9dd74967_64db6b38c9d15e39"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74967_a6b3cd2f1d367aec",
+    "message": "অনুগ্রহ করে আপনার থানা এবং জেলার নামটি দিয়ে প্রদান করুন,",
+    "trigger": "679e564098ea05fc9dd74967_a6b3cd2f1d367aec_xlki1j9Vy4",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74967_021b13b7999b2981_U8eUz68mAT",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74967_6a7467e8a53a0727",
+    "metadata": {
+      "campaignName": "Lead_New Con Ban (Message)",
+      "campaignId": "679e564098ea05fc9dd74967_64db6b38c9d15e39"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74967_021b13b7999b2981",
+    "message": "আপনার বিস্তারিত ঠিকানা প্রদান করুন (যেমনঃ বাসা, রোড, ব্লক, এলাকার নাম)",
+    "trigger": "679e564098ea05fc9dd74967_021b13b7999b2981_U8eUz68mAT",
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74967_6a7467e8a53a0727",
+    "message": "বিস্তারিত তথ্য দিয়ে সহযোগিতা করার জন্য ধন্যবাদ। খুব শীগ্রই আমাদের টিম আপনার সাথে যোগাযোগ করবেন।",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74968_ad3734fab0d51f1a",
+    "delay": 0,
+    "message": "Please select your desire package,",
+    "trigger": "679e564098ea05fc9dd74968_131fe4fce8599076",
+    "keywords": ["pack", "package", "package price", "change package"],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74968_131fe4fce8599076",
+    "trigger": "679e564098ea05fc9dd74968_d03cf455ac2eb6f7",
+    "carousel": [
+      {
+        "id": "679e564098ea05fc9dd74968_39f92c899d493c64",
+        "src": "#",
+        "title": "<a target='_blank' href=''>90 Mbps, BDT 1900 </a> </br>Dial 500 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_c387a2424946a67f",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_d7a851376f99d61d",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_d55c4adf64e7529c",
+        "src": "#",
+        "title": "<a target='_blank' href=''>85 Mbps, BDT 1800 </a> </br>Dial 400 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_dc2a37fad07f054a",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_adaf3f2244edf6b2",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_7b419e717650a1e0",
+        "src": "#",
+        "title": "<a target='_blank' href=''>80 Mbps, BDT 1700 </a> </br>Dial 400 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_0a0f793300241e9e",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_86fea6295a29f48f",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_74a629ac8e54aa28",
+        "src": "#",
+        "title": "<a target='_blank' href=''>75 Mbps, BDT 1475 </a> </br>Dial 400 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_54fe44c5627ad5a6",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_9f36f54c34a9a1bb",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_e2508d256158e304",
+        "src": "#",
+        "title": "<a target='_blank' href=''>70 Mbps, BDT 1375 </a> </br>Dial 400 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_3726b9328a930df7",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_234d3115ee96b4c1",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_96f13d3bb5c83781",
+        "src": "#",
+        "title": "<a target='_blank' href=''>60 Mbps, BDT 1275 </a> </br>Dial 400 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_ec64dc403c52a514",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_cab3032c984fec38",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_2dddfdcd265f405f",
+        "src": "#",
+        "title": "<a target='_blank' href=''>50 Mbps, BDT 1050 </a> </br>Dial 100 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_bbcfc5abcaa61a1f",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_c5335d30a6297b1d",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_5eb17da55ff00df9",
+        "src": "#",
+        "title": "<a target='_blank' href=''>35 Mbps, BDT 825 </a> </br>Dial 100 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_0431277408df3289",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_97edbc6cb4ee98f2",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_3f694b8da9178719",
+        "src": "#",
+        "title": "<a target='_blank' href=''>20 Mbps, BDT 650 </a> </br>",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_a2f4a6eb705123df",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_8adcc03a13522d65",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_c4bba8d8af0ec5e2",
+        "src": "#",
+        "title": "<a target='_blank' href=''>10 Mbps, BDT 525 </a> </br>",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_77bc3b7819754604",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_ba43509a5ea4d1e2",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74968_d03cf455ac2eb6f7",
+    "carousel": [
+      {
+        "id": "679e564098ea05fc9dd74968_faf49683b7e23c4e",
+        "src": "#",
+        "title": "<a target='_blank' href=''>210 Mbps, BDT 4625 </a> </br>Dial 800 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_5e0ca08b1965378f",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_b28fb94f608e7223",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_1232deec6257c63c",
+        "src": "#",
+        "title": "<a target='_blank' href=''>140 Mbps, BDT 2800 </a> </br>Dial 700 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_8abed924166d9580",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_6f5fa3aa594984d5",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74968_341a9c0fbd7b39b1",
+        "src": "#",
+        "title": "<a target='_blank' href=''>125 Mbps, BDT 2525 </a> </br>Dial 600 Min Talktime",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+            "label": "Change Request",
+            "value": "679e564098ea05fc9dd74968_2d7acb72123ce4d9",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+            "label": "Back",
+            "value": "679e564098ea05fc9dd74968_d8c13312c3675518",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "Connect Agent",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74969_21f51a84a89a4f56",
+    "delay": 0,
+    "message": "অনুগ্রহ করে আপনার প্যাকেজটি নির্বাচন করুন",
+    "trigger": "679e564098ea05fc9dd74969_32ab193273e2c5bb",
+    "keywords": [
+      "প্যাকের কি কি আছে",
+      "প্যাকজের প্রাইস",
+      "প্যাকেজ চেঞ্জ",
+      "কত এমবিপিএস"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74969_32ab193273e2c5bb",
+    "trigger": "679e564098ea05fc9dd74969_d22ef0b359ba4ff2",
+    "carousel": [
+      {
+        "id": "679e564098ea05fc9dd74969_dac4f0c6da16f5f8",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৯০ এমবিপিএস ১৯০০ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৫০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_b99841ad92249349",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_3b1801952470c987",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_636a1e23518f0711",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৮৫ এমবিপিএস ১৮০০ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_110f9d0f1170f256",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_ae22b819b173b17b",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_8180747dd1a140cc",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৮০ এমবিপিএস ১৭০০ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_3fe7b9a0b1f992a7",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_433e71d5c0493134",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_70cb8ba176649fe2",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৭৫ এমবিপিএস ১৪৭৫ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_8d1bcbc4336f0931",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_f5acf0ed67d297a0",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_1fbfd65cac6556db",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৭০ এমবিপিএস ১৩৭৫ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_4e623b7dae03d8bb",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_ccc02814be3efea9",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_90ff68648995827f",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৬০ এমবিপিএস ১২৭৫ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৪০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_49cade29a1ba79cb",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_884bba396d420995",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_8851ea0d76835fa6",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৫০ এমবিপিএস ১০৫০ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ১০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_68f05fb8c1bd954f",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_ceccdfb8ce331fc8",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_c69ddfc3104557eb",
+        "src": "#",
+        "title": "<a target='_blank' href=''>৩৫ এমবিপিএস ৮২৫ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ১০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_433ebc92cc5bcb39",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_563ecbaa88526aa2",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_23f64ae1cbf7808e",
+        "src": "#",
+        "title": "<a target='_blank' href=''>২০ এমবিপিএস ৬৫০ টাকা। </a> </br>",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_35565f98a5e43140",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_bf841a63bd53dcb2",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_f4d1960af4d32833",
+        "src": "#",
+        "title": "<a target='_blank' href=''>১০ এমবিপিএস ৫২৫ টাকা। </a> </br>",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_d0a76513c7952cac",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_90d8d222c8ebe58b",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74969_d22ef0b359ba4ff2",
+    "carousel": [
+      {
+        "id": "679e564098ea05fc9dd74969_2c11f00f17d447e6",
+        "src": "#",
+        "title": "<a target='_blank' href=''>২১০ এমবিপিএস ৪৬২৫ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৮০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_76c57e7a9ad96039",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_18eefc173e391749",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_963b4c7ceaada469",
+        "src": "#",
+        "title": "<a target='_blank' href=''>১৪০ এমবিপিএস ২৮০০ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৭০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_88ef273df3a6a22c",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_385d281be38f8c8e",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      },
+      {
+        "id": "679e564098ea05fc9dd74969_e2e71a1733b967d3",
+        "src": "#",
+        "title": "<a target='_blank' href=''>১২৫ এমবিপিএস ২৫২৫ টাকা। </a> </br>ডায়াল ফ্রি টকটাইম ৬০০ মিনিট",
+        "options": [
+          {
+            "trigger": "679e564098ea05fc9dd7498d_e1b541967255c054",
+            "label": "প্যাকেজ পরিবর্তন",
+            "value": "679e564098ea05fc9dd74969_3aed4318dadd246e",
+            "type": "button"
+          },
+          {
+            "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+            "label": "ফিরে যান",
+            "value": "679e564098ea05fc9dd74969_8d3f0093edb22b9f",
+            "type": "button"
+          },
+          {
+            "trigger": "end",
+            "label": "এজেন্ট সাপোর্ট",
+            "value": "end",
+            "type": "button"
+          }
+        ]
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496a_db46b00aec15fc99_9uSXh0z8vn",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd7496a_bc4bdf357ca05d44",
+    "metadata": {
+      "campaignName": "Lead_Pack Chang Info Col Eng (Message)",
+      "campaignId": "679e564098ea05fc9dd7496a_a1531f0e05979213"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496a_db46b00aec15fc99",
+    "message": "Please share your expected time to migration your package, \n\n- From Next Bill Cycle\n- Instant Migration",
+    "trigger": "679e564098ea05fc9dd7496a_db46b00aec15fc99_9uSXh0z8vn",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496a_bc4bdf357ca05d44_Qjf6GlZ6l8",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd7496a_b2782f05843d871a",
+    "metadata": {
+      "campaignName": "Lead_Pack Chang Info Col Eng (Message)",
+      "campaignId": "679e564098ea05fc9dd7496a_a1531f0e05979213"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496a_bc4bdf357ca05d44",
+    "message": "Please share your customer ID",
+    "trigger": "679e564098ea05fc9dd7496a_bc4bdf357ca05d44_Qjf6GlZ6l8",
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496a_b2782f05843d871a",
+    "message": "We are checking your issue. Please stay online and assist us by giving your precious time.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496b_23f89ddd80544b35_05DTgyc6Jx",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd7496b_526ec29c4c5e5720",
+    "metadata": {
+      "campaignName": "Lead_Pack Chang Info Col Ban (Message)",
+      "campaignId": "679e564098ea05fc9dd7496b_cde52a80c32bff0c"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496b_23f89ddd80544b35",
+    "message": "কবে থেকে নতুন প্যাকেজে পরিবর্তন করতে চাচ্ছেন?\n\n- পরবর্তী বিল সাইকেল থেকে\n- ইন্সট্যান্ট মাইগ্রেশন",
+    "trigger": "679e564098ea05fc9dd7496b_23f89ddd80544b35_05DTgyc6Jx",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496b_526ec29c4c5e5720_c3wC2fZ9ES",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd7496b_4b702a9b94a9ae33",
+    "metadata": {
+      "campaignName": "Lead_Pack Chang Info Col Ban (Message)",
+      "campaignId": "679e564098ea05fc9dd7496b_cde52a80c32bff0c"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496b_526ec29c4c5e5720",
+    "message": "অনুগ্রহ করে আপনার গ্রাহক আইডি দিয়ে সহযগিতা করবেন।",
+    "trigger": "679e564098ea05fc9dd7496b_526ec29c4c5e5720_c3wC2fZ9ES",
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496b_4b702a9b94a9ae33",
+    "message": "আপনার বিষয়টি নিয়ে কাজ করছি, অনুগ্রহ করে সময় দিয়ে সহযোগিতা করবেন।",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496c_1a827ff9bcbc67a2",
+    "message": "Please select your service from the list below,",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496e_752e198f9ab254f5",
+        "label": "Bkash",
+        "value": "679e564098ea05fc9dd7496c_2cd5e6691e6e6d1e",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74970_f8c850963d8f04a0",
+        "label": "Nagad",
+        "value": "679e564098ea05fc9dd7496c_311c586f25952ec7",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74972_c030792c3c87d211",
+        "label": "Rocket",
+        "value": "679e564098ea05fc9dd7496c_520f361673ecf017",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74974_87a93dca3559d557",
+        "label": "Upay",
+        "value": "679e564098ea05fc9dd7496c_e6020e07ed5ff5d9",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74976_1e57f8b15333c00b",
+        "label": "Visa/ Mastercard",
+        "value": "679e564098ea05fc9dd7496c_258df40642051c7c",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74978_69ce666b97347c48",
+        "label": "Wrong Payment",
+        "value": "679e564098ea05fc9dd7496c_f0889ad1c07294e5",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd7496c_7837ebb25dd6148e",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "keywords": [
+      "Bill Pay",
+      "Payment system",
+      "Payment Process",
+      "want to pay",
+      "payment",
+      "payment app",
+      "bkash",
+      "bikas",
+      "nagad",
+      "nogod",
+      "rocket",
+      "upay",
+      "card",
+      "bank card",
+      "credit card",
+      "debit card",
+      "Kivabe bill dibo",
+      "inactive",
+      "Bill dichi",
+      "Online Payment",
+      "Bank",
+      "Wrong Payment",
+      "Vul ID te",
+      "bill payment",
+      "bill pay korbo",
+      "bill dibo kivabe",
+      "bill dibo",
+      "Bill dichi"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496d_2a872af5967812ec",
+    "message": "নিচের তালিকা থেকে অনুগ্রহ করে আপনার সেবাটি নির্বাচন করুন,",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496f_fe8ba0867c496595",
+        "label": "বিকাশ",
+        "value": "679e564098ea05fc9dd7496d_a7b3683c85fcc76c",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74971_e2d17ea153b3efff",
+        "label": "নগদ",
+        "value": "679e564098ea05fc9dd7496d_9799570b45285a6a",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74973_285da56fc136c4bd",
+        "label": "রকেট",
+        "value": "679e564098ea05fc9dd7496d_1bd8115ee6dddbc4",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74975_8d34d738ad7d6eb5",
+        "label": "উপায়",
+        "value": "679e564098ea05fc9dd7496d_49d376c666ca182d",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74977_d7304741d689b700",
+        "label": "ভিসা/ মাস্টারকার্ড",
+        "value": "679e564098ea05fc9dd7496d_ff33c35e34293626",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74979_f9bcc7c3db8b4923",
+        "label": "ভুল পেমেন্টে করনীয়",
+        "value": "679e564098ea05fc9dd7496d_f135f25e9d55b56f",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd7496d_d68dff4a54e8ccc6",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "keywords": [
+      "বিল পে",
+      "বিল পেমেন্ট",
+      "বিল পে করবো কিভাবে",
+      "বিকাশ",
+      "নগদ",
+      "রকেট",
+      "ক্রেডিট",
+      "ডেবিট",
+      "ব্যাংক থেকে",
+      "পেমেন্ট করার উপায়",
+      "পে",
+      "বিল দেয় কেমনে",
+      "বিল দিবো",
+      "ভুল আইডিতে",
+      "কার্ড দিয়ে",
+      "বিল দিচ্ছি"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496e_752e198f9ab254f5",
+    "message": "Please follow the below steps to pay bill through Bkash,\n\n1.\tLog in to the bKash app.\n2.\tTap on the ‘Pay Bill’ option from home page.\n3.\tSelect ‘iDesk360’ from the list of bills.\n4.\tEnter your iDesk360 customer ID and your registered contact number.\n5.\tEnter the bill amount.\n6.\tTap the ‘Continue’ button.\n7.\tEnter your bKash account PIN.\n8.\tTap and hold on the panel below.\n9.\tOnce the bill payment is complete, you will receive a notification on your phone.\n\nKindly save the transaction ID for future inquiries and services.\n\nNote: It may take 5-10 minutes for the payment update and ID be active.",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496c_1a827ff9bcbc67a2",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd7496e_8583cd77b86b88fd",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "679e564098ea05fc9dd7496e_6b6e3a36cd14a735",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7496f_fe8ba0867c496595",
+    "message": "বিকাশের মাধ্যমে বিল পেমেন্ট করতে নিচের পদ্ধতি অনুসরন করুন,\n\n১। প্রথমে বিকাশ অ্যাপ এ লগইন করুন\n২। হোম থেকে ‘পে বিল’ অপশনে ট্যাপ করুন\n৩। বিলের তালিকা থেকে ‘iDesk360’ সিলেক্ট করুন\n৪। iDesk360 কাস্টমার আইডি এবং আপনার রেজিস্টার্ড কন্টাক্ট নাম্বার দিন\n৫। বিলের পরিমাণ লিখুন\n৬। কন্টিনিউ বাটন এ ট্যাপ করুন\n৭। বিকাশ এ্যকাউন্টের PIN নাম্বার দিন\n৮। নিচে প্যানেলে ট্যাপ করে ধরে রাখুন\n৯। পে বিল সম্পূর্ণ হলেই আপনার ফোনে নোটিফিকেশন পেয়ে যাবেন।\n\nপরবর্তী অনুসন্ধান এবং সেবার জন্য অনুগ্রহ করে ট্রানজেকশন আইডি সংগ্রহ করুন।\n\nনোটঃ পেমেন্ট আপডেট এবং আইডি সচল হতে ৫-১০ মিনিট পর্যন্ত সময়ের প্রয়োজন হতে পারে।",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496d_2a872af5967812ec",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd7496f_75de3d725983b4de",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "679e564098ea05fc9dd7496f_73e3e2b3bd230510",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74970_f8c850963d8f04a0",
+    "message": "Please follow the below step to pay bill through Nagad,\n\n1.\tLog in to the Nagad app.\n2.\tTap on the ‘Bill Payment’ option on the home page.\n3.\tSelect ‘iDesk360’ from the list of bills.\n4.\tEnter your iDesk360 customer ID and your registered contact number.\n5.\tEnter the bill amount.\n6.\tTap the ‘Continue’ button.\n7.\tEnter your Nagad account PIN.\n8.\tTap and hold on the panel below.\n9.\tOnce the bill payment is complete, you will receive a notification on your phone.\n\nKindly save the transaction ID for future inquiries and services.\n\nNote: It may take 5-10 minutes for the payment update and ID be active.",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496c_1a827ff9bcbc67a2",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd74970_b8fe5c567149902d",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "679e564098ea05fc9dd74970_39030d4652d8580e",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74971_e2d17ea153b3efff",
+    "message": "নগদের মাধ্যমে বিল পেমেন্ট করতে নিচের পদ্ধতি অনুসরন করুন,\n\n ১। প্রথমে নগদ অ্যাপ এ লগইন করুন।\n২। হোম পেজ থেকে ‘বিল পরিশোধ’ অপশনে ট্যাপ করুন।\n৩। বিলের তালিকা থেকে ‘iDesk360’ নির্বাচন করুন।\n৪। iDesk360 কাস্টমার আইডি এবং আপনার নিবন্ধিত ফোন নম্বর দিন।\n৫। বিলের পরিমাণ লিখুন।\n৬। ‘কন্টিনিউ’ বাটনে ট্যাপ করুন।\n৭। নগদ অ্যাকাউন্টের PIN নম্বর দিন।\n৮। নিচের প্যানেলে ট্যাপ করে ধরে রাখুন।\n৯। বিল পরিশোধ সম্পূর্ণ হলে আপনার ফোনে নোটিফিকেশন পেয়ে যাবেন।\n\nপরবর্তী অনুসন্ধান এবং সেবার জন্য অনুগ্রহ করে ট্রানজেকশন আইডি সংগ্রহ করুন।\n\nনোটঃ পেমেন্ট আপডেট এবং আইডি সচল হতে ৫-১০ মিনিট পর্যন্ত সময়ের প্রয়োজন হতে পারে।",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496d_2a872af5967812ec",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd74971_324d09e1a3ba79fd",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "679e564098ea05fc9dd74971_1ea6cb9d1ca2c9ab",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74972_c030792c3c87d211",
+    "message": "Please follow the below step to pay bill through Rocket,\n\n1. Login to Rocket app.\n2. Tap on Bill Pay option from Home.\n3. Select Internet from Category\n4. Select iDesk360 from the list of bills.\n5. Enter the iDesk360 Customer ID and your registered contact number.\n6. Enter the amount.\n7. Tap the Continue button.\n8. Enter Rocket account PIN number\n9. You will get notification on your phone when the pay bill is completed.\n\nKindly save the transaction ID for future inquiries and services.\n\nNote: It may take 5-10 minutes for the payment update and ID be active.",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496c_1a827ff9bcbc67a2",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd74972_82abfb593c749571",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "679e564098ea05fc9dd74972_df40e5f67383675a",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74973_285da56fc136c4bd",
+    "message": "রকেটের মাধ্যমে বিল পেমেন্ট করতে নিচের পদ্ধতি অনুসরন করুন,\n\n১। প্রথমে Rocket অ্যাপে লগইন করুন। \n২। হোম থেকে Bill Pay অপশনে ট্যাপ করুন। \n৩। Category অপশন থেকে ইন্টারনেট নির্বাচন করুন৷\n৪। বিলের তালিকা থেকে iDesk360 নির্বাচন করুন।\n৫। iDesk360 গ্রাহক আইডি এবং আপনার নিবন্ধিত যোগাযোগ নম্বর লিখুন। \n৬। বিলের পরিমাণ লিখুন।\n৭। কন্টিনিউ বাটন এ ট্যাপ করুন।\n৮। Rocket অ্যাকাউন্টের পিন নম্বর লিখুন\n৯। পে বিল সম্পূর্ণ হলেই আপনার ফোনে নোটিফিকেশন পেয়ে যাবেন।\n\nপরবর্তী অনুসন্ধান এবং সেবার জন্য অনুগ্রহ করে ট্রানজেকশন আইডি সংগ্রহ করুন।\n\nনোটঃ পেমেন্ট আপডেট এবং আইডি সচল হতে ৫-১০ মিনিট পর্যন্ত সময়ের প্রয়োজন হতে পারে।",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496d_2a872af5967812ec",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd74973_d1b8ed48000cfecd",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "679e564098ea05fc9dd74973_c6b6e9b6d603f520",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74974_87a93dca3559d557",
+    "message": "Please follow the below step to pay bill through Upay,\n\n1. First login to Upay app.\n2. Tap on Pay Bill option from Home.\n3. Select the Internet option\n4. Select iDesk360 from the list of bills..\n5. Enter the iDesk360 Customer ID and your registered contact number.\n6. Enter the bill amount.\n7. Tap on the Continue button.\n8. Enter Upay account PIN number\n9. Tap and hold the bottom panel.\n10. You will get notification on your phone when the pay bill is completed.\n\nKindly save the transaction ID for future inquiries and services.\n\nNote: It may take 5-10 minutes for the payment update and ID be active.",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496c_1a827ff9bcbc67a2",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd74974_af7fceac72f12bb7",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "679e564098ea05fc9dd74974_e07ca1790b39a435",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74975_8d34d738ad7d6eb5",
+    "message": "উপায়ের মাধ্যমে বিল পেমেন্ট করতে নিচের পদ্ধতি অনুসরন করুন,\n\n1. প্রথমে Upay অ্যাপে লগইন করুন\n2. হোম থেকে পে বিল অপশনে ট্যাপ করুন। \n3. ইন্টারনেট অপশন নির্বাচন করুন৷\n4. বিলের তালিকা থেকে iDesk360 নির্বাচন করুন।\n5. iDesk360 গ্রাহক আইডি এবং আপনার নিবন্ধিত যোগাযোগ নম্বর লিখুন। \n6. বিলের পরিমাণ লিখুন।\n7. কন্টিনিউ বাটন এ ট্যাপ করুন।\n8. Upay অ্যাকাউন্টের পিন নম্বর লিখুন\n9. নিচে প্যানেলে ট্যাপ করে ধরে রাখুন।\n10. পে বিল সম্পূর্ণ হলেই আপনার ফোনে নোটিফিকেশন পেয়ে যাবেন।\n\nপরবর্তী অনুসন্ধান এবং সেবার জন্য অনুগ্রহ করে ট্রানজেকশন আইডি সংগ্রহ করুন।\n\nনোটঃ পেমেন্ট আপডেট এবং আইডি সচল হতে ৫-১০ মিনিট পর্যন্ত সময়ের প্রয়োজন হতে পারে।",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496d_2a872af5967812ec",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd74975_8d2313ac41ad2bd1",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "679e564098ea05fc9dd74975_78e085aa0c63abbd",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74976_1e57f8b15333c00b",
+    "message": "Please follow the below step to pay bill,\n\n1. Login to your Selfcare account from the link https://selfcare.iDesk360.net/login.\n2. Select \"Billing\" from the menu option\n3. Select your preferred payment channel.\n4. Enter the bill amount.\n5. Fill in your bank account information and click on \"Pay\".\n6. Follow the instructions with the OTP code received on the registered number used in the bank account.\n7. You will get notification on your phone when the pay bill is completed.\n\nKindly save the transaction ID for future inquiries and services.\n\nNote: It may take 5-10 minutes for the payment update and ID be active.",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496c_1a827ff9bcbc67a2",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd74976_bcae41ca5bc6b84a",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "679e564098ea05fc9dd74976_7c8e0187fc89a0f4",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74977_d7304741d689b700",
+    "message": "বিল পরিশোধের জন্য অনুগ্রহ করে নিচের নিয়মটি অনুসরণ করুন,\n\n১। https://selfcare.iDesk360.net/login থেকে আপনার সেল্ফকেয়ার অ্যাকাউন্টে লগইন করে \"Billing\" অপশনটি সিলেক্ট করুন।\n৩। আপনার কাঙ্খিত পেমেন্ট চ্যানেল সিলেক্ট করে বিলের পরিমাণ লিখুন।\n৫। আপনার ব্যাংক অ্যাকাউন্টের তথ্য পূরণ করে \"Pay\" এ ক্লিক করুন।\n৬। ব্যাংক অ্যাকাউন্টের রেজিস্টার্ড নাম্বারে প্ৰাপ্ত OTP কোড দিয়ে নির্দেশনা অনুসরন করুন।\n৭। পে বিল সম্পূর্ণ হলেই আপনার ফোনে নোটিফিকেশন পেয়ে যাবেন।\n\nপরবর্তী অনুসন্ধান এবং সেবার জন্য অনুগ্রহ করে ট্রানজেকশন আইডি সংগ্রহ করুন।\n\nনোটঃ পেমেন্ট আপডেট এবং আইডি সচল হতে ৫-১০ মিনিট পর্যন্ত সময়ের প্রয়োজন হতে পারে।",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496d_2a872af5967812ec",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd74977_24464ea5722bfb48",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "679e564098ea05fc9dd74977_6e713c1ab9558717",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74978_69ce666b97347c48",
+    "message": "Please send us the following details to verify your payment:\n\n- Customer ID  \n- Transaction ID  \n- Mobile Number  \n- Amount  \n- Payment Time  \n\nEmail these to:  \nTo: billing@iDesk360.net  \nCC: support@iDesk360.net  \n\nOur billing team will check and update your payment soon.\n\nThank you!",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496c_1a827ff9bcbc67a2",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd74978_3e7a10103e21a0c4",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "679e564098ea05fc9dd74978_06a23486ba7b040c",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74979_f9bcc7c3db8b4923",
+    "message": "অনুগ্রহ করে আপনার পেমেন্ট এর বিস্তারিত,\n- সঠিক গ্রাহক আইডি\n- ট্র্যানজেকশন আইডি\n- মোবাইল নাম্বার\n- টাকার অঙ্ক\n- সময়\nউল্লেখ করে আমাদের ইমেইল করুন নিচের ঠিকানায়।\nto- billing@iDesk360.net এবং\ncc- support@iDesk360.net\nআপনার পেমেন্টের বিষয়টি আমাদের বিলিং ডিপার্টমেন্ট চেক করে খুব শীঘ্রই এডজাস্ট করার ব্যবস্থা করবেন। ",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496d_2a872af5967812ec",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd74979_62e4f487eac47999",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "679e564098ea05fc9dd74979_71468235ed137d5b",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7497a_4ca15b5e495f38cd",
+    "message": "Select Your Required Support",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7497c_08419d932ff8e0cd",
+        "label": "Link Down",
+        "value": "679e564098ea05fc9dd7497a_83b77cb257b920b7",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74984_8e8b25395912429f",
+        "label": "Slow Internet",
+        "value": "679e564098ea05fc9dd7497a_7c63e83fe5103f1a",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74968_ad3734fab0d51f1a",
+        "label": "Package Change",
+        "value": "679e564098ea05fc9dd7497a_d6e035f5a2c42bbf",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74986_1062755cd3a35e94",
+        "label": "Connection Shifting",
+        "value": "679e564098ea05fc9dd7497a_dc2748e563c95677",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd7497a_2e4864395060fa76",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "keywords": [
+      "line nai",
+      "connection nai",
+      "tar chire gese",
+      "tar jhule ase",
+      "net nai",
+      "internet kaj korche na",
+      "unable to use internet",
+      "access",
+      "couldt connect",
+      "no connection",
+      "no internet",
+      "facing problem",
+      "showing red lights",
+      "paid my wifi bill but no connection",
+      "Connection Lostsomdan hoi nai",
+      "somadhan hoi nai",
+      "net slow",
+      "onek slow",
+      "onek durbol",
+      "net chere dei",
+      "net chole na",
+      "line nai",
+      "kotha bolte chai",
+      "agent nai",
+      "interruption",
+      "Speed",
+      "speed pachchi na",
+      "Speed kom",
+      "Slow speed",
+      "Bandwidth problem",
+      "download speed",
+      "expected speed",
+      "Wifi speed",
+      "Network problem",
+      "buffering",
+      "poor signal",
+      "link down",
+      "onu te lal bati",
+      "red light",
+      "neter",
+      "net er",
+      "liner",
+      "line er",
+      "slow"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7497b_975e1f9485e97c15",
+    "message": "আপনার প্রয়োজনীয় সেবাটি নির্বাচন করুন",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7497d_8a78ecf13f05a7db",
+        "label": "ইন্টারনেট নেই",
+        "value": "679e564098ea05fc9dd7497b_66327507a97a7c30",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74985_84b6bcbc104107a0",
+        "label": "ইন্টারনেট ধীরগতি",
+        "value": "679e564098ea05fc9dd7497b_dfd04108c8ce1c64",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74969_21f51a84a89a4f56",
+        "label": "প্যাকেজ পরিবর্তন",
+        "value": "679e564098ea05fc9dd7497b_a5b302e5e9d3f28e",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74987_c83337641a64ac4f",
+        "label": "স্থান পরিবর্তন",
+        "value": "679e564098ea05fc9dd7497b_96c53a919b1ae68a",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd7497b_6249649d7e3da4ce",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "keywords": [
+      "কানেকশন নাই",
+      "ইন্টারনেট নাই",
+      "ইন্টারনেট সমস্যা",
+      "ইন্টারনেট বন্ধ",
+      "নেট নাই",
+      "ইন্টারনেট পাচ্ছে না",
+      "নেট পাচ্ছে না",
+      "নেট চলছে নাহ",
+      "লিংক ডাউন",
+      "কয়দিন লাগবে লাইনটা চালু হতে",
+      "কানেট হয় না",
+      "সমস্যা",
+      "নেট",
+      "স্লো",
+      "অনেক স্লো",
+      "স্পিড কম",
+      "স্পিড নাই",
+      "ডাউনলোড সমস্যা",
+      "আপলোড হচ্ছে না",
+      "ডাউনলোড হচ্ছে না",
+      "সমাধান হয়নি",
+      "নেট অনেক স্লো",
+      "অনেক দুর্বল ইন্টারনেট",
+      "স্পিড লাইন স্লো",
+      "নেট চলে যাচ্ছে",
+      "নেট ছেড়ে দেয়",
+      "আস্তে চলে",
+      "ধীর গতি",
+      "চলেই না",
+      "লাল বাতি",
+      "নেটের",
+      "নেট এর",
+      "লাইনের",
+      "লাইন এর"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7497c_08419d932ff8e0cd",
+    "message": "Please share your ONU device LOS light color",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7497e_3a7d9414c5771841",
+        "label": "Red",
+        "value": "679e564098ea05fc9dd7497c_966eac27ffe47d20",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74980_5e9c26fb8f4797aa",
+        "label": "Green",
+        "value": "679e564098ea05fc9dd7497c_12ee26a5e87ddf05",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74981_36466efa19eb9e80",
+        "label": "Unable to Share",
+        "value": "679e564098ea05fc9dd7497c_1b933739403321f8",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7497a_4ca15b5e495f38cd",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd7497c_952d72e370d32fc0",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7497d_8a78ecf13f05a7db",
+    "message": "অনুগ্রহ করে জানাবেন অনু ডিভাইসে LOS এ কি আলো দেখাচ্ছে?",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7497f_3a4a19630d1f6298",
+        "label": "লাল",
+        "value": "679e564098ea05fc9dd7497d_1bd755858c22df2b",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74982_424aa09ac854a81d",
+        "label": "সবুজ",
+        "value": "679e564098ea05fc9dd7497d_3c345aef87879af3",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74983_d05856f20e89b876",
+        "label": "শেয়ার করা সম্ভব হচ্ছে না",
+        "value": "679e564098ea05fc9dd7497d_0c8069f408875dec",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7497b_975e1f9485e97c15",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd7497d_a21390ec861f00ad",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7497e_3a7d9414c5771841_ndg06BlT1W",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd7497e_7dd03cad01286203",
+    "metadata": {
+      "campaignName": "Lead_ONU Status (Red) Eng",
+      "campaignId": "679e564098ea05fc9dd7497e_6ee93b497ce27b22"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7497e_3a7d9414c5771841",
+    "message": "Please share your Customer ID",
+    "trigger": "679e564098ea05fc9dd7497e_3a7d9414c5771841_ndg06BlT1W",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7497e_7dd03cad01286203",
+    "message": "We are checking your issue. Please stay online and assist us by giving your precious time.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7497f_3a4a19630d1f6298_2gqfCk0FQ1",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd7497f_8d32f7728af9c64a",
+    "metadata": {
+      "campaignName": "Lead_ONU Status (Red) Ban",
+      "campaignId": "679e564098ea05fc9dd7497f_91b3517309e8e87f"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7497f_3a4a19630d1f6298",
+    "message": "অনুগ্রহ করে আপনার গ্রাহক আইডি প্রদান করুন",
+    "trigger": "679e564098ea05fc9dd7497f_3a4a19630d1f6298_2gqfCk0FQ1",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7497f_8d32f7728af9c64a",
+    "message": "আপনার বিষয়টি নিয়ে কাজ করছি, অনুগ্রহ করে সময় দিয়ে সহযোগিতা করবেন।",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74980_5e9c26fb8f4797aa_fJcSp81wZ0",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74980_b8037802cf3c5aac",
+    "metadata": {
+      "campaignName": "Lead_ONU Status (Green) Eng",
+      "campaignId": "679e564098ea05fc9dd74980_047818c5066ccaad"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74980_5e9c26fb8f4797aa",
+    "message": "Please share your Customer ID",
+    "trigger": "679e564098ea05fc9dd74980_5e9c26fb8f4797aa_fJcSp81wZ0",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74980_b8037802cf3c5aac",
+    "message": "We are checking your issue. Please stay online and assist us by giving your precious time.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74981_36466efa19eb9e80_61h8dhANrb",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74981_35dcc9d744da41f1",
+    "metadata": {
+      "campaignName": "Lead_ONU Status (Unknown) Eng",
+      "campaignId": "679e564098ea05fc9dd74981_5e93c2159c7708bf"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74981_36466efa19eb9e80",
+    "message": "Please share your Customer ID",
+    "trigger": "679e564098ea05fc9dd74981_36466efa19eb9e80_61h8dhANrb",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74981_35dcc9d744da41f1",
+    "message": "We are checking your issue. Please stay online and assist us by giving your precious time.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74982_424aa09ac854a81d_sM6Gz4skb5",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74982_b8aec8354ad01cf0",
+    "metadata": {
+      "campaignName": "Lead_ONU Status (Green) Ban",
+      "campaignId": "679e564098ea05fc9dd74982_40a1c31d6363e701"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74982_424aa09ac854a81d",
+    "message": "অনুগ্রহ করে আপনার গ্রাহক আইডি প্রদান করুন",
+    "trigger": "679e564098ea05fc9dd74982_424aa09ac854a81d_sM6Gz4skb5",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74982_b8aec8354ad01cf0",
+    "message": "আপনার বিষয়টি নিয়ে কাজ করছি, অনুগ্রহ করে সময় দিয়ে সহযোগিতা করবেন।",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74983_d05856f20e89b876_NRjg1d33YL",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74983_7138a4d80a4a4f4d",
+    "metadata": {
+      "campaignName": "Lead_ONU Status (Unknown) Ban",
+      "campaignId": "679e564098ea05fc9dd74983_894a18656bd53018"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74983_d05856f20e89b876",
+    "message": "অনুগ্রহ করে আপনার গ্রাহক আইডি প্রদান করুন",
+    "trigger": "679e564098ea05fc9dd74983_d05856f20e89b876_NRjg1d33YL",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74983_7138a4d80a4a4f4d",
+    "message": "আপনার বিষয়টি নিয়ে কাজ করছি, অনুগ্রহ করে সময় দিয়ে সহযোগিতা করবেন।",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74984_8e8b25395912429f_Q6iTh6mLR4",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74984_430d17bc8475df1e",
+    "metadata": {
+      "campaignName": "Lead_Bandwidth Info Coll Eng",
+      "campaignId": "679e564098ea05fc9dd74984_6a97772b814fdb21"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74984_8e8b25395912429f",
+    "message": "Please share your customer ID along with register/ contact number.",
+    "trigger": "679e564098ea05fc9dd74984_8e8b25395912429f_Q6iTh6mLR4",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74984_430d17bc8475df1e_iZs01zB3Vg",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74984_eb50a78a467c0a23",
+    "metadata": {
+      "campaignName": "Lead_Bandwidth Info Coll Eng",
+      "campaignId": "679e564098ea05fc9dd74984_6a97772b814fdb21"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74984_430d17bc8475df1e",
+    "message": "Please share in which apps/ website you are experiencing speed related issues.\n\n(Ex: Facebook, Youtube, Google, FTP Server etc.)",
+    "trigger": "679e564098ea05fc9dd74984_430d17bc8475df1e_iZs01zB3Vg",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74984_eb50a78a467c0a23_3ldpJS3p1z",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74984_f7248eba9c2d0cfd",
+    "metadata": {
+      "campaignName": "Lead_Bandwidth Info Coll Eng",
+      "campaignId": "679e564098ea05fc9dd74984_6a97772b814fdb21"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74984_eb50a78a467c0a23",
+    "message": "Are you facing this issue\n\n- Always\n- Certain time of day\n(Ex: Morning/ Evening/ Night)",
+    "trigger": "679e564098ea05fc9dd74984_eb50a78a467c0a23_3ldpJS3p1z",
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74984_d8324bdbf3dd3ea5",
+    "message": "We are checking your issue. Please stay online and assist us by giving your precious time.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74984_f7248eba9c2d0cfd_9qGO99OfVT",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74984_d8324bdbf3dd3ea5",
+    "metadata": {
+      "campaignName": "Lead_Bandwidth Info Coll Eng",
+      "campaignId": "679e564098ea05fc9dd74984_6a97772b814fdb21"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74984_f7248eba9c2d0cfd",
+    "message": "Please share the connected device count",
+    "trigger": "679e564098ea05fc9dd74984_f7248eba9c2d0cfd_9qGO99OfVT",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74985_84b6bcbc104107a0_M4sO4yk4wq",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74985_9eca08918b129928",
+    "metadata": {
+      "campaignName": "Lead_Bandwidth Info Coll Ban",
+      "campaignId": "679e564098ea05fc9dd74985_f6c8929532aec720"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74985_84b6bcbc104107a0",
+    "message": "অনুগ্রহ করে আপনার গ্রাহক আইডি এবং যোগাযোগের নাম্বারটি শেয়ার করুন",
+    "trigger": "679e564098ea05fc9dd74985_84b6bcbc104107a0_M4sO4yk4wq",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74985_9eca08918b129928_oq0Ws79Zxi",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74985_ec0abe8b88640325",
+    "metadata": {
+      "campaignName": "Lead_Bandwidth Info Coll Ban",
+      "campaignId": "679e564098ea05fc9dd74985_f6c8929532aec720"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74985_9eca08918b129928",
+    "message": "অনুগ্রহ করে জানাবেন সমস্যাটি কি সকল ওয়েবসাইট/ অ্যাাপসে হচ্ছে নাকি নির্দিষ্ট কোন ওয়েবসাইট/ অ্যাাপসে,\n\nযেমনঃ ফেইসবুক, ইউটিউব, গুগল, ইত্যাদি",
+    "trigger": "679e564098ea05fc9dd74985_9eca08918b129928_oq0Ws79Zxi",
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74985_85f6aba5123ea3ce",
+    "message": "আপনার বিষয়টি নিয়ে কাজ করছি, অনুগ্রহ করে সময় দিয়ে সহযোগিতা করবেন।",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74985_ec0abe8b88640325_20IyjzUR8h",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74985_5affd6a07f5c7ff5",
+    "metadata": {
+      "campaignName": "Lead_Bandwidth Info Coll Ban",
+      "campaignId": "679e564098ea05fc9dd74985_f6c8929532aec720"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74985_ec0abe8b88640325",
+    "message": "আপনার সমস্যাটি কখন হচ্ছে?\n\n- সব সময়ই সমস্যা\n- দিনের নির্দিষ্ট কোন সময়ে\n(যেমনঃ সকালে/ সন্ধ্যা/ রাতে)",
+    "trigger": "679e564098ea05fc9dd74985_ec0abe8b88640325_20IyjzUR8h",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74985_5affd6a07f5c7ff5_K6is0w6wba",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74985_85f6aba5123ea3ce",
+    "metadata": {
+      "campaignName": "Lead_Bandwidth Info Coll Ban",
+      "campaignId": "679e564098ea05fc9dd74985_f6c8929532aec720"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74985_5affd6a07f5c7ff5",
+    "message": "আপনার রাউটারে সাধারনত কয়টি পর্যন্ত ডিভাইস কানেক্টেড থাকে।",
+    "trigger": "679e564098ea05fc9dd74985_5affd6a07f5c7ff5_K6is0w6wba",
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74986_1062755cd3a35e94",
+    "message": "For shifting service it's required 500Tk.\nPlease share your opinion to process your service.",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd74988_cbef2c49afe20912",
+        "label": "Agree",
+        "value": "679e564098ea05fc9dd74986_b89b268a2e9f1f7a",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7497a_4ca15b5e495f38cd",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd74986_08d0ec13aee7d020",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "keywords": [
+      "Shift",
+      "shifting",
+      "location change",
+      "basa change",
+      "basa shift",
+      "relocation"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74987_c83337641a64ac4f",
+    "message": "শিফটিং সার্ভিসের জন্য ৫০০ টাকা প্রয়োজন হবে। আপনি সম্মত হলে \"এগিয়ে যান\" বাটনে ক্লিক করুন,",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd74989_2d38a0c655b1d48c",
+        "label": "এগিয়ে যান",
+        "value": "679e564098ea05fc9dd74987_5b4fc516216cdcbb",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7497b_975e1f9485e97c15",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd74987_dc1cc16314411372",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "keywords": [
+      "শিফট",
+      "শিফটিং",
+      "রিলোকেশন",
+      "বাসা চেঞ্জ",
+      "লোকেশন চেঞ্জ",
+      "বাসা ছেড়ে দিচ্ছি",
+      "বাসা শিফট"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74988_8a174a8b4b8383e3_gNJGYd603U",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74988_617224e2c217b709",
+    "metadata": {
+      "campaignName": "Lead_Bandwidth Info Coll Ban",
+      "campaignId": "679e564098ea05fc9dd74985_f6c8929532aec720"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74988_8a174a8b4b8383e3",
+    "message": "To process the shifting request please provide the following information,\n\nHouse no:\nBlock or Street:\nArea Name:\nThana and District:",
+    "trigger": "679e564098ea05fc9dd74988_8a174a8b4b8383e3_gNJGYd603U",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74988_617224e2c217b709",
+    "message": "We are checking your issue. Please stay online and assist us by giving your precious time.\n\nIn addition, after payment shifting will be completed within 3 working days. \nSimply take the ONU device with you when you move to new address. Our technical team will complete the rest of the cable setup.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74988_cbef2c49afe20912_rD3mV6rd4i",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74988_8a174a8b4b8383e3",
+    "metadata": {
+      "campaignName": "Lead_Shifting Service Info Coll Eng",
+      "campaignId": "679e564098ea05fc9dd74988_bc2b7eede87094e2"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74988_cbef2c49afe20912",
+    "message": "Please share your customer ID along with contact number,",
+    "trigger": "679e564098ea05fc9dd74988_cbef2c49afe20912_rD3mV6rd4i",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74989_ee8e6e482164a3f4_wnUzl0Tc25",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74989_3cbcc04d8a4e9859",
+    "metadata": {
+      "campaignName": "Lead_Shifting Service Info Coll Eng",
+      "campaignId": "679e564098ea05fc9dd74988_bc2b7eede87094e2"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74989_ee8e6e482164a3f4",
+    "message": "শিফটিং রিকোয়েস্ট প্রসেস সম্পন্ন করার জন্য অনুগ্রহ করে নিম্নোক্ত তথ্যগুলো দিয়ে সহযোগিতা করবেন,\n\nবাড়ির নামঃ\nব্লক/ রাস্তাঃ\nএলাকার নামঃ\nথানা এবং জেলাঃ",
+    "trigger": "679e564098ea05fc9dd74989_ee8e6e482164a3f4_wnUzl0Tc25",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74989_3cbcc04d8a4e9859",
+    "message": "আপনার বিষয়টি নিয়ে কাজ করছি, অনুগ্রহ করে সময় দিয়ে সহযোগিতা করবেন।\n\nপেমেন্ট সম্পন্ন করার পর ৩ কর্মদিবসের মধ্যে শিফটিং সম্পন করা হবে।\nআপনি নতুন ঠিকানায় যাওয়ার সময় শুধুমাত্র ONU ডিভাইসটি খুলে আপনার সাথে নিয়ে যাবেন। বাকি কেবল এর সেটআপ আমাদের টেকনিক্যাল টিম সম্পূর্ণ করবেন।",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74989_2d38a0c655b1d48c_eHQx7x46KK",
+    "validationType": "text",
+    "user": true,
+    "trigger": "679e564098ea05fc9dd74989_ee8e6e482164a3f4",
+    "metadata": {
+      "campaignName": "Lead_Shifting Service Info Coll Ban",
+      "campaignId": "679e564098ea05fc9dd74989_861891521e3f04eb"
+    },
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd74989_2d38a0c655b1d48c",
+    "message": "অনুগ্রহ করে আপনার গ্রাহক আইডি এবং যোগাযোগের সচল নাম্বারটি শেয়ার করবেন,",
+    "trigger": "679e564098ea05fc9dd74989_2d38a0c655b1d48c_eHQx7x46KK",
+    "camp_start": true,
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7498a_9f13bae58a3a5d98",
+    "message": "Click below button to check Coverage",
+    "options": [
+      {
+        "trigger": "end",
+        "label": "Cilck here",
+        "value": "webUrl",
+        "type": "webURL",
+        "url": "https://www.iDesk360.net/"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "679e564098ea05fc9dd7498a_3555e15aba9112d0",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7498b_6592e3a42d72d0fc",
+    "message": "আপনার এরিয়াটি লিংক থ্রি কাভারেজে রয়েছে কিনা চেক করতে \"এখনই দেখুন\" বাটনে ক্লিক করুন,",
+    "options": [
+      {
+        "trigger": "end",
+        "label": "এখনই দেখুন",
+        "value": "webUrl",
+        "type": "webURL",
+        "url": "https://www.iDesk360.net/"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "679e564098ea05fc9dd7498b_cac7d5c50d4fd5af",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7498c_e44eee59ac27f9ee",
+    "message": "You can upgrade your package in free of cost. If you want to switch from current package to a lower speed package, a downgrade charge of Tk 3000 will be applicable.",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496a_db46b00aec15fc99",
+        "label": "Agree",
+        "value": "679e564098ea05fc9dd7498c_08089e00d7079ce5",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7497a_4ca15b5e495f38cd",
+        "label": "Back",
+        "value": "679e564098ea05fc9dd7498c_f4152f0d9b147411",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "679e564098ea05fc9dd7498d_e1b541967255c054",
+    "message": "আপনি সম্পূর্ন ফ্রি-তে প্যাকেজ আপগ্রেড করতে পারবেন।\nকিন্তু প্যাকেজ ডাউনগ্রেডের জন্য ৩০০০ টাকা চার্জ প্রযোজ্য হবে। আপনি সম্মত হলে \"এগিয়ে যান\" বাটনে ক্লিক করুন,",
+    "options": [
+      {
+        "trigger": "679e564098ea05fc9dd7496b_23f89ddd80544b35",
+        "label": "এগিয়ে যান",
+        "value": "679e564098ea05fc9dd7498d_8986d98d6091dd6d",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd7497b_975e1f9485e97c15",
+        "label": "ফিরে যান",
+        "value": "679e564098ea05fc9dd7498d_52753b5543ff618f",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686e4e5b57956d829940ef60_12898e0dff1aa3a1",
+    "message": "Please select your desire Dial App related service",
+    "options": [
+      {
+        "trigger": "686e4f6057956d829940ef62_69b7e5998af18fb4",
+        "label": "Download App",
+        "value": "686e4e5b57956d829940ef60_5262031995a37313",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686e501a57956d829940ef64_79843867b57bc82d",
+        "label": "Registration Process",
+        "value": "686e4e5b57956d829940ef60_102a30967711a2c5",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686eabef57956d829940efdf_df676d981796083e",
+        "label": "NID Submission",
+        "value": "686e4e5b57956d829940ef60_5e80f69aec68d8d6",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686eac9257956d829940efe1_0b0904c603154a78",
+        "label": "Recharge",
+        "value": "686e4e5b57956d829940ef60_027c9487e2b12b9c",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686ead1257956d829940efe3_bb39301f044456c0",
+        "label": "Service request",
+        "value": "686e4e5b57956d829940ef60_d7ae069b9afce375",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Back",
+        "value": "686e4e5b57956d829940ef60_544b84ca3605a1fb",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "keywords": [
+      "Dial",
+      "Dial App",
+      "Min",
+      "Minute",
+      "Free Minute",
+      "Bonus Minute",
+      "OTP",
+      "Call",
+      "Calling",
+      "Call jay na",
+      "Call ashe na",
+      "Incoming",
+      "Ooutgoing",
+      "Kotha"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "686e4e9c57956d829940ef61_269b48970ec086e6",
+    "message": "অনুগ্রহ করে ডায়াল অ্যাপ রিলেটেড আপনার সেবাটি নির্বাচন করুন,",
+    "options": [
+      {
+        "trigger": "686e4fc357956d829940ef63_259547dcb2ac84a7",
+        "label": "ডাউনলোড অ্যাপস",
+        "value": "686e4e9c57956d829940ef61_c57a16e03e8337fb",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686eace157956d829940efe2_865f93ea92be78c9",
+        "label": "রেজিস্ট্রেশন প্রক্রিয়া",
+        "value": "686e4e9c57956d829940ef61_806d9ebaf1e9eda1",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686eac4557956d829940efe0_841ee15404cca1b8",
+        "label": "এনআইডি সাবমিট",
+        "value": "686e4e9c57956d829940ef61_e8392dc4bea469bd",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686eace157956d829940efe2_865f93ea92be78c9",
+        "label": "রিচার্জ",
+        "value": "686e4e9c57956d829940ef61_44130947301b8f4a",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686ead3d57956d829940efe4_f12f728cf062641e",
+        "label": "সার্ভিস রিকোয়েস্ট",
+        "value": "686e4e9c57956d829940ef61_d0a3ee4de852a328",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "ফিরে যান",
+        "value": "686e4e9c57956d829940ef61_8f48b221808009a2",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "keywords": [
+      "ডায়াল",
+      "ডায়াল অ্যাপ",
+      "মিনিট",
+      "ফ্রি মিনিট",
+      "বোনাস মিনিট",
+      "ওটিপি",
+      "কল যান না",
+      "কল করতে পারিনা",
+      "কলের সমস্যা",
+      "আউটগোয়িং",
+      "কথা"
+    ],
+    "keyMatch": "string",
+    "src": "#"
+  },
+  {
+    "id": "686e4f6057956d829940ef62_69b7e5998af18fb4",
+    "message": "Please visit Google Play store or Apple app store. Search “Dial app” & Click “Install”\n \nOr visit\n\nPlay store: https://play.google.com/store/apps/details?id=com.beint.dial\n\nApp store: https://apps.apple.com/in/app/dial/id1641860957",
+    "options": [
+      {
+        "trigger": "686e4e5b57956d829940ef60_12898e0dff1aa3a1",
+        "label": "Back",
+        "value": "686e4f6057956d829940ef62_b3f65700e4a98528",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "686e4f6057956d829940ef62_2b626836d6f94d37",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686e4fc357956d829940ef63_259547dcb2ac84a7",
+    "message": "অনুগ্রহ করে গুগল প্লে-স্টোর অথবা অ্যাপল অ্যাপ-স্টোর থেকে, “Dial app” সার্চ করুন এবং “Install” করে অ্যাপ ব্যবহার শুরু করুন।\n\nঅথবা ডাউনলোড করতে ক্লিক করুন,\n\nPlay store: https://play.google.com/store/apps/details?id=com.beint.dial\n\nApp store : https://apps.apple.com/in/app/dial/id1641860957",
+    "options": [
+      {
+        "trigger": "686e4e9c57956d829940ef61_269b48970ec086e6",
+        "label": "ফিরে যান",
+        "value": "686e4fc357956d829940ef63_7a1471160c8c2c03",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "686e4fc357956d829940ef63_ccb83aa203539598",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686e501a57956d829940ef64_79843867b57bc82d",
+    "message": "Launch the app and enter your mobile number to begin the registration process, then tap “Continue.”\n\n1. A confirmation prompt will appear — tap “Confirm.”\n2. Input the 4-digit OTP sent to your mobile number.\n3. Allow the app to access your phone’s storage and run in the background.\n4. You will be asked to enter your name. Type your name and proceed.\n5. Review and continue with the app’s Privacy Policy to complete the setup.",
+    "options": [
+      {
+        "trigger": "686e4f6057956d829940ef62_69b7e5998af18fb4",
+        "label": "Back",
+        "value": "686e501a57956d829940ef64_f9da80ada0c6a719",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "686e501a57956d829940ef64_f222b323a56fe6fd",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686e509957956d829940ef65_2451b37997d81ed0",
+    "message": "অ্যাপটি চালু করুন এবং রেজিস্ট্রেশন করতে আপনার মোবাইল নম্বর দিয়ে “Continue” চাপুন।\n\n১. একটি কনফার্মেশন প্রম্পট আসবে, “Confirm” চাপুন।\n২. আপনার মোবাইলে পাঠানো ৪-ডিজিট OTP দিন।\n৩. অ্যাপকে আপনার ফোনের স্টোরেজ অ্যাক্সেস এবং ব্যাকগ্রাউন্ডে চলার অনুমতি দিন।\n৪. আপনার নাম লিখে এগিয়ে যান।\n৫. অ্যাপের প্রাইভেসি পলিসি পড়ে সম্মতি দিয়ে রেজিস্ট্রেশন সম্পন্ন করুন।\n\nপরবর্তীতে নম্বরটি নিশ্চিত করার জন্য বলবে। তখন ‘Confirm’ বাটনে ক্লিক করুন।",
+    "options": [
+      {
+        "trigger": "686e4e9c57956d829940ef61_269b48970ec086e6",
+        "label": "ফিরে যান",
+        "value": "686e509957956d829940ef65_6088492e6b64bbe0",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "686e509957956d829940ef65_52028217c90eccfc",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686eabef57956d829940efdf_df676d981796083e",
+    "message": "To register a valid NID Card is required. You can register maximum 5 Dial App accounts using one NID. Once registration has completed, will receive a SMS to get Dial ID and submit \"NID\". To Submit NID,\n\n1. Tap on your profile name.\n2. Select \"Add Documents\" option.\n3. Upload clear photos of both front and back of your NID.\n4. After uploading, tap \"Verify\" button.\n5. NID details will appear on the screen for confirmation. Review the information, then tap \"Submit\".\n\nOnce your NID is successfully verified, you will receive a Dial ID number, and your profile will show the status as \"Approved.\"",
+    "options": [
+      {
+        "trigger": "686e4e5b57956d829940ef60_12898e0dff1aa3a1",
+        "label": "Back",
+        "value": "686eabef57956d829940efdf_02bfc00510f0a507",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "686eabef57956d829940efdf_c3ccfd056c02fb22",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686eac4557956d829940efe0_841ee15404cca1b8",
+    "message": "ডায়াল অ্যাপে রেজিস্ট্রেশনের জন্য বৈধ NID প্রয়োজন। একটি NID দিয়ে সর্বোচ্চ ৫টি ডায়াল অ্যাপ অ্যাকাউন্ট রেজিস্টার করা যাবে। রেজিস্ট্রেশন শেষ হলে SMS মাধ্যোমে আইপি টেলিফোনি নম্বর এবং \"NID\" জমা দেওয়ার নির্দেশ থাকবে।\n\n১. অ্যাপের প্রোফাইল নামের ওপর ট্যাপ করুন।\n২. “Add Documents” অপশন সিলেক্ট করুন।\n৩. এনআইডির সামনে ও পেছনের স্পষ্ট ছবি আপলোড করুন।\n৪. আপলোড শেষে “Verify” বোতাম চাপুন।\n৫. আপনার NID তথ্য দেখাবে, তথ্য যাচাই করে “Submit” চাপুন।\n\nআপনার NID সফলভাবে যাচাই হলে, একটি Dial ID নম্বর দেওয়া হবে এবং আপনার প্রোফাইলের স্ট্যাটাস \"Approved\" দেখাবে।",
+    "options": [
+      {
+        "trigger": "686e4e9c57956d829940ef61_269b48970ec086e6",
+        "label": "ফিরে যান",
+        "value": "686eac4557956d829940efe0_6ea3fa45dc5c93a8",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "686eac4557956d829940efe0_f5ea0755957c930b",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686eac9257956d829940efe1_0b0904c603154a78",
+    "message": "You can recharge any amount between 10-10,000 TK on the Dial App. The recharged balance has no expiry and can be used until fully consumed. To recharge,\n\n1. Go to the Settings menu and tap on \"My Balance.\"\n2. Tap on \"Add Balance.\"\n3. Enter the desired amount (minimum 10 Taka) and tap \"Recharge.\"\n4. Choose your preferred payment method and complete the transaction.",
+    "options": [
+      {
+        "trigger": "686e4e5b57956d829940ef60_12898e0dff1aa3a1",
+        "label": "Back",
+        "value": "686eac9257956d829940efe1_40ae01a494e7fe2d",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74962_1b00adc61dff4c8a",
+        "label": "Main Menu",
+        "value": "686eac9257956d829940efe1_d8bed78c81d8b52b",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "Connect Agent",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686eace157956d829940efe2_865f93ea92be78c9",
+    "message": "ডায়াল অ্যাপে ১০ থেকে ১০,০০০ টাকা পর্যন্ত যেকোনো পরিমাণ রিচার্জ করা যাবে। রিচার্জ করা ব্যালেন্স ব্যবহারের কোন নির্দিষ্ট সময়সীমা নেই এবং পুরো ব্যালেন্স খরচ না হওয়া পর্যন্ত ব্যবহার করা যাবে। রিচার্জ করতে,\n\n১. সেটিংস মেনু থেকে \"My Balance\" এ যান।\n২. \"Add Balance\" এ ট্যাপ করুন।\n৩. প্রয়োজনীয় পরিমাণ (সর্বনিম্ন ১০ টাকা) লিখে \"Recharge\" চাপুন।\n৪. পছন্দসই পেমেন্ট পদ্ধতি নির্বাচন করে লেনদেন সম্পন্ন করুন।",
+    "options": [
+      {
+        "trigger": "686e4e9c57956d829940ef61_269b48970ec086e6",
+        "label": "ফিরে যান",
+        "value": "686eace157956d829940efe2_a9b24f5cfc10714b",
+        "type": "button"
+      },
+      {
+        "trigger": "679e564098ea05fc9dd74963_b5de719df93970dd",
+        "label": "মেইন মেন্যু",
+        "value": "686eace157956d829940efe2_c832cbfe3cc225f1",
+        "type": "button"
+      },
+      {
+        "trigger": "end",
+        "label": "এজেন্ট সাপোর্ট",
+        "value": "chatWithHuman",
+        "type": "button"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686ead1257956d829940efe3_bb39301f044456c0",
+    "message": "Select Your Required Support",
+    "options": [
+      {
+        "trigger": "686eadc557956d829940efe5_bb680abd930c0b88",
+        "label": "Calling Problem",
+        "value": "686ead1257956d829940efe3_858ecb9b6f08be88",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686eaeba57956d829940efe7_65b6e31e378ee0c4",
+        "label": "OTP Problem",
+        "value": "686ead1257956d829940efe3_d1e66cc2c4bdbf94",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686eaf8957956d829940efe9_89f71ca34c4e1afc",
+        "label": "Minute Offer",
+        "value": "686ead1257956d829940efe3_d562928fcc58ec4e",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686ead1257956d829940efe3_bb39301f044456c0",
+        "label": "Back",
+        "value": "686ead1257956d829940efe3_7b0ff18b6336f57b",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686ead3d57956d829940efe4_f12f728cf062641e",
+    "message": "অনুগ্রহ করে আপনার সমস্যার বিষয়টি নির্বাচন করুন,",
+    "options": [
+      {
+        "trigger": "686eae3d57956d829940efe6_d886fedfb332ea9a",
+        "label": "কলিং সমস্যা",
+        "value": "686ead3d57956d829940efe4_c760b59d09c3aa8c",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686eaf2857956d829940efe8_39a41d9257c85faa",
+        "label": "ওটিপি সমস্যা",
+        "value": "686ead3d57956d829940efe4_7ad163fd5c4853be",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686eafdb57956d829940efea_7e13f70cf381208f",
+        "label": "মিনিট অফার",
+        "value": "686ead3d57956d829940efe4_a42cfcc3cf77473d",
+        "type": "quickreply"
+      },
+      {
+        "trigger": "686ead3d57956d829940efe4_f12f728cf062641e",
+        "label": "ফিরে যান",
+        "value": "686ead3d57956d829940efe4_d2163f7dfdc26c19",
+        "type": "quickreply"
+      }
+    ],
+    "delay": 0,
+    "src": "#"
+  },
+  {
+    "id": "686eadc557956d829940efe5_bb680abd930c0b88_l9eK3ULF6c",
+    "validationType": "number",
+    "user": true,
+    "trigger": "686eadc557956d829940efe5_e7bdc48f0244508d",
+    "metadata": {
+      "campaignName": "Lead_Calling Problem Info Collect Eng",
+      "campaignId": "686eadc557956d829940efe5_829ef12425227987"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eadc557956d829940efe5_bb680abd930c0b88",
+    "message": "If you're unable to make calls from your Dial app despite having enough balance & stable internet connection, please share your Dial registration number,",
+    "trigger": "686eadc557956d829940efe5_bb680abd930c0b88_l9eK3ULF6c",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "686eadc557956d829940efe5_e7bdc48f0244508d_4Gd57qoELB",
+    "validationType": "text",
+    "user": true,
+    "trigger": "686eadc557956d829940efe5_eeaf409cf348bf42",
+    "metadata": {
+      "campaignName": "Lead_Calling Problem Info Collect Eng",
+      "campaignId": "686eadc557956d829940efe5_829ef12425227987"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eadc557956d829940efe5_e7bdc48f0244508d",
+    "message": "Please share your dial related problem details",
+    "trigger": "686eadc557956d829940efe5_e7bdc48f0244508d_4Gd57qoELB",
+    "src": "#"
+  },
+  {
+    "id": "686eadc557956d829940efe5_eeaf409cf348bf42_mDk01AohR8",
+    "validationType": "image",
+    "user": true,
+    "trigger": "686eadc557956d829940efe5_b0bfaa2de5e68131",
+    "metadata": {
+      "campaignName": "Lead_Calling Problem Info Collect Eng",
+      "campaignId": "686eadc557956d829940efe5_829ef12425227987"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eadc557956d829940efe5_eeaf409cf348bf42",
+    "message": "Please share a screenshot of the problem for further assistance.",
+    "trigger": "686eadc557956d829940efe5_eeaf409cf348bf42_mDk01AohR8",
+    "camp_end": true,
+    "options": [
+      {
+        "label": "Skip",
+        "value": "skip",
+        "type": "quickreply",
+        "trigger": "686eadc557956d829940efe5_b0bfaa2de5e68131"
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "686eadc557956d829940efe5_b0bfaa2de5e68131",
+    "message": "We are checking your issue. Please stay online and assist us by giving your precious time.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "686eae3d57956d829940efe6_d886fedfb332ea9a_ZR9Kd6iP1J",
+    "validationType": "number",
+    "user": true,
+    "trigger": "686eae3d57956d829940efe6_f976c2f1cf9679e2",
+    "metadata": {
+      "campaignName": "Lead_Calling Problem Info Collect Ban",
+      "campaignId": "686eae3d57956d829940efe6_ecf54b6c85faf4b6"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eae3d57956d829940efe6_d886fedfb332ea9a",
+    "message": "পর্যাপ্ত ব্যালেন্স এবং স্ট্যাবল ইন্টারনেট কানেকশন থাকা সত্ত্বেও যদি ডায়াল অ্যাকাউন্ট থেকে কল করতে সমস্যা হয়, অনুগ্রহ করে ডায়াল রেজিস্টার নাম্বারটি প্রদান করে সহযোগিতা করবেন,",
+    "trigger": "686eae3d57956d829940efe6_d886fedfb332ea9a_ZR9Kd6iP1J",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "686eae3d57956d829940efe6_f976c2f1cf9679e2_9c0JsL0UcV",
+    "validationType": "text",
+    "user": true,
+    "trigger": "686eae3d57956d829940efe6_6ea54c19e23bc186",
+    "metadata": {
+      "campaignName": "Lead_Calling Problem Info Collect Ban",
+      "campaignId": "686eae3d57956d829940efe6_ecf54b6c85faf4b6"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eae3d57956d829940efe6_f976c2f1cf9679e2",
+    "message": "অনুগ্রহ করে আপনার সমস্যার বিস্তারিত তথ্য প্রদান করুন,",
+    "trigger": "686eae3d57956d829940efe6_f976c2f1cf9679e2_9c0JsL0UcV",
+    "src": "#"
+  },
+  {
+    "id": "686eae3d57956d829940efe6_6ea54c19e23bc186_s7siqH0r8J",
+    "validationType": "image",
+    "user": true,
+    "trigger": "686eae3d57956d829940efe6_cfcc28c5010a47de",
+    "metadata": {
+      "campaignName": "Lead_Calling Problem Info Collect Ban",
+      "campaignId": "686eae3d57956d829940efe6_ecf54b6c85faf4b6"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eae3d57956d829940efe6_6ea54c19e23bc186",
+    "message": "অনুগ্রহ করে আপনার সমস্যার একটি স্ক্রিনশট প্রদান করুন,",
+    "trigger": "686eae3d57956d829940efe6_6ea54c19e23bc186_s7siqH0r8J",
+    "camp_end": true,
+    "options": [
+      {
+        "label": "Skip",
+        "value": "skip",
+        "type": "quickreply",
+        "trigger": "686eae3d57956d829940efe6_cfcc28c5010a47de"
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "686eae3d57956d829940efe6_cfcc28c5010a47de",
+    "message": "আমরা আপনার সমস্যাটি যাচাই করছি। অনুগ্রহ করে অনলাইনে থাকুন এবং  আপনার  মূল্যবান সময় দিয়ে আমাদের সহযোগিতা করুন।",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "686eaeba57956d829940efe7_65b6e31e378ee0c4_6DzKsG57Nj",
+    "validationType": "number",
+    "user": true,
+    "trigger": "686eaeba57956d829940efe7_e0cf0f9b3d61afea",
+    "metadata": {
+      "campaignName": "Lead_OTP Problem Info Collect Eng",
+      "campaignId": "686eaeba57956d829940efe7_b5a8c4ad6b011c22"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eaeba57956d829940efe7_65b6e31e378ee0c4",
+    "message": "Sincerely sorry for the inconvenience, please share in which number your are experiencing OTP related issue",
+    "trigger": "686eaeba57956d829940efe7_65b6e31e378ee0c4_6DzKsG57Nj",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "686eaeba57956d829940efe7_e0cf0f9b3d61afea_Y477UaybWD",
+    "validationType": "text",
+    "user": true,
+    "trigger": "686eaeba57956d829940efe7_f96718648cb6c7eb",
+    "metadata": {
+      "campaignName": "Lead_OTP Problem Info Collect Eng",
+      "campaignId": "686eaeba57956d829940efe7_b5a8c4ad6b011c22"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eaeba57956d829940efe7_e0cf0f9b3d61afea",
+    "message": "Please share your problem details",
+    "trigger": "686eaeba57956d829940efe7_e0cf0f9b3d61afea_Y477UaybWD",
+    "src": "#"
+  },
+  {
+    "id": "686eaeba57956d829940efe7_f96718648cb6c7eb_Ps74S9Xjew",
+    "validationType": "image",
+    "user": true,
+    "trigger": "686eaeba57956d829940efe7_7f964c95beeb1212",
+    "metadata": {
+      "campaignName": "Lead_OTP Problem Info Collect Eng",
+      "campaignId": "686eaeba57956d829940efe7_b5a8c4ad6b011c22"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eaeba57956d829940efe7_f96718648cb6c7eb",
+    "message": "Please share a screenshot of the problem for further assistance,",
+    "trigger": "686eaeba57956d829940efe7_f96718648cb6c7eb_Ps74S9Xjew",
+    "camp_end": true,
+    "options": [
+      {
+        "label": "Skip",
+        "value": "skip",
+        "type": "quickreply",
+        "trigger": "686eaeba57956d829940efe7_7f964c95beeb1212"
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "686eaeba57956d829940efe7_7f964c95beeb1212",
+    "message": "We are checking your issue. Please stay online and assist us by giving your precious time.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "686eaf2857956d829940efe8_39a41d9257c85faa_0IW0k7mlda",
+    "validationType": "number",
+    "user": true,
+    "trigger": "686eaf2857956d829940efe8_8aa6bd0b0b78eb93",
+    "metadata": {
+      "campaignName": "Lead_OTP Problem Info Collect Ban",
+      "campaignId": "686eaf2857956d829940efe8_a861de33cde145d3"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eaf2857956d829940efe8_39a41d9257c85faa",
+    "message": "আন্তরিকভাবে দুঃখিত, যে নাম্বারটিতে আপনি OTP সমস্যা পাচ্ছেন অনুগ্রহ করে সে নাম্বারটি আমাদের সাথে শেয়ার করুন,",
+    "trigger": "686eaf2857956d829940efe8_39a41d9257c85faa_0IW0k7mlda",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "686eaf2857956d829940efe8_8aa6bd0b0b78eb93_s10kf0bmBZ",
+    "validationType": "text",
+    "user": true,
+    "trigger": "686eaf2857956d829940efe8_6b413d56f7519072",
+    "metadata": {
+      "campaignName": "Lead_OTP Problem Info Collect Ban",
+      "campaignId": "686eaf2857956d829940efe8_a861de33cde145d3"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eaf2857956d829940efe8_8aa6bd0b0b78eb93",
+    "message": "OTP সংক্রান্ত সমস্যার বিস্তারিত উল্লেখ করুন,",
+    "trigger": "686eaf2857956d829940efe8_8aa6bd0b0b78eb93_s10kf0bmBZ",
+    "src": "#"
+  },
+  {
+    "id": "686eaf2857956d829940efe8_6b413d56f7519072_jhT2rlL7U8",
+    "validationType": "image",
+    "user": true,
+    "trigger": "686eaf2857956d829940efe8_9c1557aedc0dde59",
+    "metadata": {
+      "campaignName": "Lead_OTP Problem Info Collect Ban",
+      "campaignId": "686eaf2857956d829940efe8_a861de33cde145d3"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eaf2857956d829940efe8_6b413d56f7519072",
+    "message": "সমস্যার একটি স্ক্রিনশট শেয়ার করুন,",
+    "trigger": "686eaf2857956d829940efe8_6b413d56f7519072_jhT2rlL7U8",
+    "camp_end": true,
+    "options": [
+      {
+        "label": "Skip",
+        "value": "skip",
+        "type": "quickreply",
+        "trigger": "686eaf2857956d829940efe8_9c1557aedc0dde59"
+      }
+    ],
+    "src": "#"
+  },
+  {
+    "id": "686eaf2857956d829940efe8_9c1557aedc0dde59",
+    "message": "আমরা আপনার সমস্যাটি যাচাই করছি। অনুগ্রহ করে অনলাইনে থাকুন এবং  আপনার  মূল্যবান সময় দিয়ে আমাদের সহযোগিতা করুন।",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "686eaf8957956d829940efe9_89f71ca34c4e1afc_63oJNas3Hd",
+    "validationType": "number",
+    "user": true,
+    "trigger": "686eaf8957956d829940efe9_739648c42a73e53c",
+    "metadata": {
+      "campaignName": "Lead_Bonus Min Info Collect Eng",
+      "campaignId": "686eaf8957956d829940efe9_93fc814f68fc6cd5"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eaf8957956d829940efe9_89f71ca34c4e1afc",
+    "message": "Sincerely sorry for the inconvenience, please share your register number for Minute disbursement ",
+    "trigger": "686eaf8957956d829940efe9_89f71ca34c4e1afc_63oJNas3Hd",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "686eaf8957956d829940efe9_739648c42a73e53c_ckL6x5ccn7",
+    "validationType": "text",
+    "user": true,
+    "trigger": "686eaf8957956d829940efe9_1ac959786c4e1918",
+    "metadata": {
+      "campaignName": "Lead_Bonus Min Info Collect Eng",
+      "campaignId": "686eaf8957956d829940efe9_93fc814f68fc6cd5"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eaf8957956d829940efe9_739648c42a73e53c",
+    "message": "Please share your problem in details",
+    "trigger": "686eaf8957956d829940efe9_739648c42a73e53c_ckL6x5ccn7",
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "686eaf8957956d829940efe9_1ac959786c4e1918",
+    "message": "We are checking your issue. Please stay online and assist us by giving your precious time.",
+    "end": true,
+    "src": "#"
+  },
+  {
+    "id": "686eafdb57956d829940efea_7e13f70cf381208f_J04dGEk5lt",
+    "validationType": "number",
+    "user": true,
+    "trigger": "686eafdb57956d829940efea_321d6b6d11af6f5d",
+    "metadata": {
+      "campaignName": "Lead_Bonus Min Info Collect Ban",
+      "campaignId": "686eafdb57956d829940efea_5e5f8a45e121c50b"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eafdb57956d829940efea_7e13f70cf381208f",
+    "message": "আন্তরিকভাবে দুঃখিত অনুগ্রহ করে আপনার রেজিস্টার নাম্বারটি শেয়ার করুন,",
+    "trigger": "686eafdb57956d829940efea_7e13f70cf381208f_J04dGEk5lt",
+    "camp_start": true,
+    "src": "#"
+  },
+  {
+    "id": "686eafdb57956d829940efea_321d6b6d11af6f5d_iI973boKpv",
+    "validationType": "text",
+    "user": true,
+    "trigger": "686eafdb57956d829940efea_0271890e7eca37ae",
+    "metadata": {
+      "campaignName": "Lead_Bonus Min Info Collect Ban",
+      "campaignId": "686eafdb57956d829940efea_5e5f8a45e121c50b"
+    },
+    "src": "#"
+  },
+  {
+    "id": "686eafdb57956d829940efea_321d6b6d11af6f5d",
+    "message": "অনুগ্রহ করে আপনার সমস্যার বিস্তারিত তথ্য আমাদে সাথে শেয়ার করুন,",
+    "trigger": "686eafdb57956d829940efea_321d6b6d11af6f5d_iI973boKpv",
+    "camp_end": true,
+    "src": "#"
+  },
+  {
+    "id": "686eafdb57956d829940efea_0271890e7eca37ae",
+    "message": "আমরা আপনার সমস্যাটি যাচাই করছি। অনুগ্রহ করে অনলাইনে থাকুন এবং  আপনার  মূল্যবান সময় দিয়ে আমাদের সহযোগিতা করুন।",
+    "end": true,
+    "src": "#"
+  }
+]
